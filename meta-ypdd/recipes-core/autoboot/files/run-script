@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+echo "I AM run script"
+echo "I Am run script" >> /run.txt
+echo "I Am run script " >> /home/run.txt

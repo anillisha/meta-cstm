@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+echo "I AM STARTUPscript"
+echo "I Am startscript " >> /startup.txt
+echo "I Am startscript " >> /home/startup.txt

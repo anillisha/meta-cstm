@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+echo "I AM support"
+echo "I Am support " >> /support.txt
+echo "I Am support " >> /home/support.txt
